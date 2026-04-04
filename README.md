@@ -23,9 +23,9 @@ Scripting / Tools:
 - Bash
 - Python (currently learning)
 
-Currently working on: documenting my projects in GitHub 🫠 
+**Currently working on**: documenting my projects in GitHub 🫠 
 
-Currently learning: 
+**Currently learning**: 
 - new skillsets like AWS and Networking at my current job as a Cloud SysOps Administrator 👨🏽‍💻
 - and Python as my first real programming language 🐍
 
