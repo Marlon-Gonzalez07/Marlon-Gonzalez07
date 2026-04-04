@@ -1,16 +1,35 @@
-## Hi there 👋
+   **Hey there** 😄👋
+  
 
-<!--
-**Marlon-Gonzalez07/Marlon-Gonzalez07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Marlon**, a FiSi based in Germany.
 
-Here are some ideas to get you started:
+I learn and develop whatever I put my head into.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea comes to mind, I structure it, research it, and document the process.
+
+**My main tech stack is**: 
+
+OS:
+  - Linux
+  - Windows
+    
+Infrastructure/Virtualisation:
+  - Proxmox VE
+  - Linux Server
+  - AD basics 
+  - AWS basics
+  
+Scripting / Tools:
+- Bash
+- Python (currently learning)
+
+Currently working on: documenting my projects in GitHub 🫠 
+
+Currently learning: 
+- new skillsets like AWS and Networking at my current job as a Cloud SysOps Administrator 👨🏽‍💻
+- and Python as my first real programming language 🐍
+
+**Fun Facts:**
+  - Being friendlier than I look  🙃
+  - I'm close to 2m tall 
+  - **Hobbies**: cooking, gym, building projects  
