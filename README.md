@@ -20,14 +20,14 @@ Infrastructure/Virtualisation:
   - AWS basics
   
 Scripting / Tools:
-- Bash
-- Python (currently learning)
+  - Bash
+  - Python (currently learning)
 
 **Currently working on**: documenting my projects in GitHub 🫠 
 
 **Currently learning**: 
-- new skillsets like AWS and Networking at my current job as a Cloud SysOps Administrator 👨🏽‍💻
-- and Python as my first real programming language 🐍
+  - new skillsets like AWS and Networking at my current job as a Cloud SysOps Administrator 👨🏽‍💻
+  - and Python as my first real programming language 🐍
 
 **Fun Facts:**
   - Being friendlier than I look  🙃
