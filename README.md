@@ -28,8 +28,3 @@ Scripting / Tools:
 **Currently learning**: 
   - new skillsets like AWS and Networking at my current job as a Cloud SysOps Administrator 👨🏽‍💻
   - and Python as my first real programming language 🐍
-
-**Fun Facts:**
-  - Being friendlier than I look  🙃
-  - I'm close to 2m tall 
-  - **Hobbies**: cooking, gym, building projects  
